@@ -2,7 +2,7 @@
 
 Day 1 & 2
 
-- [ ] Complete the Promises Course on Udacity
+- [x] Complete the Promises Course on Udacity
 - [ ] Read this blog post
 - [ ] Read this blog post
 Day 3 & 4
