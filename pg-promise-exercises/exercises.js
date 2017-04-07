@@ -53,7 +53,8 @@ const allBooks = db.any('select * from books')
 // = .... IMPLEMENT THIS FUNCTION
 
 let firstTenBooks = db.any('select title from books')
-.then(books => {
+
+firstTenBooks.then(books => {
   assert(books.length, 10);
 }).catch(error => {
   console.log('Whoops, my function doesnt behave as expected.', error);

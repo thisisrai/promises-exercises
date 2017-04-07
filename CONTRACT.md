@@ -21,18 +21,18 @@ Day 3
 Day 4 & 5
 
  Exercises 1-13 in the promise-it-wont-hurt-solutions are complete and written to the appropriate file:
-- [ ]src/01-warmup.js
-- [ ]src/02-fullfill-a-promise.js
-- [ ]src/03-reject-a-promise.js
-- [ ]src/04-to-reject-or-not-to-reject.js
-- [ ]src/05-always-asynchronous.js
-- [ ]src/06-shortcuts.js
-- [ ]src/07-promise-after-promise.js
-- [ ]src/08-values-and-promises.js
-- [ ]src/09-throw-an-error.js
-- [ ]src/10-an-important-file.js
-- [ ]src/11-multiple-promises.js
-- [ ]src/12-fetch-json.js
+- [x]src/01-warmup.js
+- [x]src/02-fullfill-a-promise.js
+- [x]src/03-reject-a-promise.js
+- [x]src/04-to-reject-or-not-to-reject.js
+- [x]src/05-always-asynchronous.js
+- [x]src/06-shortcuts.js
+- [x]src/07-promise-after-promise.js
+- [x]src/08-values-and-promises.js
+- [x]src/09-throw-an-error.js
+- [x]src/10-an-important-file.js
+- [x]src/11-multiple-promises.js
+- [x]src/12-fetch-json.js
 - [ ]src/13-do-some-work.js
 
 
