@@ -33,7 +33,7 @@ Day 4 & 5
 - [x]src/10-an-important-file.js
 - [x]src/11-multiple-promises.js
 - [x]src/12-fetch-json.js
-- [ ]src/13-do-some-work.js
+- [x]src/13-do-some-work.js
 
 
 Stretch
